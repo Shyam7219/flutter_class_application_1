@@ -1,12 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_class_application_1/as10.dart';
 import 'package:flutter_class_application_1/netflixAssignment.dart';
-
-
-
-
-
-
 void main() => runApp(const AppBarApp());
 
 class AppBarApp extends StatelessWidget {
